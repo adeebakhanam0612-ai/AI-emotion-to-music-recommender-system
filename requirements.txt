@@ -1,5 +1,5 @@
 streamlit
-tensorflow-cpu==2.13.0
+tensorflow-cpu
 fer==22.4.0
 opencv-python-headless
 pillow
